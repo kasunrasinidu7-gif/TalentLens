@@ -1,0 +1,1 @@
+"""ScoutAI application package."""
